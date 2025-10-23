@@ -1,2 +1,2 @@
-# COMP_3000-Name-pending
+# COMP_3000-Media-webapp
 COMP 3000, Project repo
